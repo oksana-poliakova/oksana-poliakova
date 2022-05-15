@@ -2,6 +2,7 @@
 - 👀 I’m interested in iOS development and software technologies
 - 🌱 I’m currently improving my skills in iOS development
 - ✨ My technology stack: Swift, UIKit, CoreData, MVC.
+- 🇬🇧 My English level is Upper-Intermediate. 
 
 <!---
 oksana-poliakova/oksana-poliakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
