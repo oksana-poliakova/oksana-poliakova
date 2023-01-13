@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Oksana and I'm a Software Engineer
+- 👋 Hi, I’m Oksana and I'm a Software Engineer (Master's Degree)
 - 👩🏼‍💻 I’m working in the iOS development
-- 🌟 Tech Stack: Swift • UIKit • SwiftUI • MVC • MVVM-C • CoreData • CocoaPods • REST API • Postman • Charles • Git
+- 🌟 Tech Stack: Swift • UIKit • SwiftUI • MVC • MVVM-C • CoreData • CocoaPods • Postman • Charles • Git
 - 🇬🇧 My English level is Upper-Intermediate (B2)
 - 🇩🇪 My German level is Upper-Intermediate (B2)
 
