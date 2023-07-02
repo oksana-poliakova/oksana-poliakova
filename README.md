@@ -1,8 +1,7 @@
 <h1 align="center"> Hello World!👋 My name is Oksana Poliakova.</h1>
 
-
-<h1> 
-<p> 👩🏼‍💻 I'm a Software Engineer from Ukraine.
+<h3>I'm a Software Engineer 👩🏼‍💻 from Ukraine 🇺🇦 </h3>
+<p> 
 <p> 🎓 Master's degree in automation and computer technologies.
 <p> 🌍 I'm currently based in Sibiu, Romania.
 <p> 🚀 I'm currently working as an iOS engineer.
