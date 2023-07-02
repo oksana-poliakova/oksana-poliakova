@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/REST API-00BFFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVVM-4682B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CocoaPods-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-00BFFF?style=for-the-badge"/>
 </p>
 
 <h3> Backend Development </h3>
