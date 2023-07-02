@@ -42,9 +42,10 @@
 <p> 
   <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-00BFFF?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-4682B4?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Less-00BFFF?style=for-the-badge&logo=Less&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-4682B4?style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
 <h3> Tools and Instruments </h3>
