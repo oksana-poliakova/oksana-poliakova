@@ -1,11 +1,7 @@
 <h1 align="center"> Hello World!👋 My name is Oksana Poliakova.</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=1200&lines=I'm+a+Software+Engineer+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6+" alt="Typing SVG" /></a>
+<h3 style="font-size: 20; text-align: center; color: #38C2FFFF;">I'm a Software Engineer 👩🏼‍💻 from Ukraine 🇺🇦</h3>
 
-
-
-
-<h3 align="center">I'm a Software Engineer 👩🏼‍💻 from Ukraine 🇺🇦 </h3>
 
 <p> 🎓 Master's degree in automation and computer technologies.
 <p> 🌍 I'm currently based in Sibiu, Romania.
