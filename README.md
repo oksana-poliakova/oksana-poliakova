@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Oksana, and I'm a Software Engineer from Ukraine.
-- 👩🏼‍💻 I work as an iOS engineer and I'm currently learing Java.
-- 🌟 Tech Stack iOS: Swift • UIKit • SwiftUI • MVC • MVVM-C • CoreData • CocoaPods • Postman • Charles • Git
-- 🇬🇧 My English level is Upper-Intermediate (B2)
-- 🇩🇪 My German level is Upper-Intermediate (B2)
+👋 Hello World! My name is Oksana Poliakova.
+👩🏼‍💻 I'm a Software Engineer from Ukraine.
+🎓 Master's degree in automation and computer technologies.
+🌍 I'm currently based in Sibiu, Romania.
+🚀 I'm currently working as an iOS engineer.
+🧠 I'm learning Java and back-end development.
+🇬🇧 English and 🇩🇪 German speaker.
 
 <!---
 oksana-poliakova/oksana-poliakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
