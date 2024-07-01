@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World! 👋 My name is Oksana Poliakova.</h1>
 
-<h2 align="center">I'm a Software Engineer 👩🏼‍💻 from Ukraine 🇺🇦</h2>
+<h2 align="center">I'm a Software Engineer 👩🏼‍💻 from Austria 🇦🇹 </h2>
 
 <p> </p>
 <p> 🎓 Master's degree in automation and computer technologies.
