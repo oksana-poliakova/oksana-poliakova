@@ -16,9 +16,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/oksana-poliakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oksana-poliakova/" height="30" width="40" /></a>
 </p>
-<h3 align="left">Connect with me on LinkedIn:</h3>
+<h3 align="left">Email me ✉️</h3>
 <p align="left">
-<a href="it.oksana.poliakova@gmail.com" target="blank"> Email me ✉️ </a>
+<a href="it.oksana.poliakova@gmail.com" target="blank"> My email </a>
 </p>
   
 <h3> Mobile Development </h3>
