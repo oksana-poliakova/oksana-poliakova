@@ -4,7 +4,7 @@
 
 <p> </p>
 <p> 🎓 Master's degree in automation and computer technologies.
-<p> 🌍 I'm currently based in Sibiu, Romania.
+<p> 🇦🇹 I'm living in Vorarlberg, Austria.
 <p> 🚀 I'm currently working as an iOS engineer.
 <p> 🧠 I'm learning Java and back-end development.
 <p> ❤️ I am passionate about mobile and back-end development.
