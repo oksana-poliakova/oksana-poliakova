@@ -8,13 +8,17 @@
 <p> 🇦🇹 I'm living in Vorarlberg, Austria.
 <p> 🚀 I'm currently working as an iOS engineer.
 <p> 🧠 I'm learning Java and back-end development.
-<p> ❤️ I am passionate about mobile and back-end development.
+<p> ❤️ I am passionate about solving complex problems through innovative software solutions.
 <p> ⛰️ I love travelling, mountains and hiking.
 <p> 🇬🇧 English and 🇩🇪 German speaker.
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/oksana-poliakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oksana-poliakova/" height="30" width="40" /></a>
+</p>
+<h3 align="left">Connect with me on LinkedIn:</h3>
+<p align="left">
+  <a href="mailto:it.oksana.poliakova@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
   
 <h3> Mobile Development </h3>
