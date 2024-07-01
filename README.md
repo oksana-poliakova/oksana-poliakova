@@ -1,5 +1,6 @@
-<h1 align="center"> Hello World! 👋 My name is Oksana Poliakova.</h1>
+<h1 align="center"> Hello World! 👋 </h1>
 
+<h2 align="center">My name is Oksana Poliakova </h2>
 <h2 align="center">I'm a Software Engineer 👩🏼‍💻 from Austria 🇦🇹 </h2>
 
 <p> </p>
@@ -39,13 +40,12 @@
   <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"" /> 
 </p>
 
-<h3> Frontend Development </h3>
+<h3> Basic Understanding </h3>
 <p> 
   <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-00BFFF?style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
 <h3> Tools and Instruments </h3>
@@ -58,6 +58,5 @@
   <img src="https://img.shields.io/badge/Scrum-4682B4?style=for-the-badge&logo=Scrum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-00BFFF?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-4682B4?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
-
 </p>
 
