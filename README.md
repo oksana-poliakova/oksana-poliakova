@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World! 👋 </h1>
 
-<h2 align="center">My name is Oksana Poliakova </h2>
-<h2 align="center">I'm a Software Engineer 👩🏼‍💻 from Austria 🇦🇹 </h2>
+<h2 align="center">My name is Oksana Poliakova 👩🏼‍💻 </h2>
+<h2 align="center">I'm a Software Engineer from Austria 🇦🇹 </h2>
 
 <p> </p>
 <p> 🎓 Master's degree in automation and computer technologies.
