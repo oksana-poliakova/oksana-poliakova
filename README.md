@@ -20,6 +20,14 @@
 <p align="left">
   <a href="mailto:it.oksana.poliakova@gmail.com" target="blank">My email</a>
 </p>
+
+<h3> Front-End Developmnet </h3>
+<p> 
+  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
+</p>
   
 <h3> Mobile Development </h3>
 <p> 
@@ -42,14 +50,6 @@
   <img src="https://img.shields.io/badge/JDBC-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTTP SERVLETS-4682B4?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"" /> 
-</p>
-
-<h3> Basic Understanding </h3>
-<p> 
-  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
 </p>
 
 <h3> Tools and Instruments </h3>
