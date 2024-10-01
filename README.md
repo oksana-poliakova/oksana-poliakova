@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World! 👋 </h1>
 
 <h2 align="center">My name is Oksana Poliakova 👩🏼‍💻 </h2>
-<h2 align="center">I'm a Software Engineer from Austria 🇦🇹 </h2>
+<h2 align="center">I'm a Front-End Developer from Austria 🇦🇹 </h2>
 
 <p></p>
 <p> 🚀 Front-End Developer with a strong focus on creating intuitive, responsive, and user-centered UI/UX designs.
@@ -9,7 +9,7 @@
 <p> 🇦🇹 I'm living in Vorarlberg, Austria.
 <p> ❤️ I am passionate about solving complex problems through innovative software solutions.
 <p> ⛰️ I love travelling, mountains and hiking.
-<p> 🇬🇧 English and 🇩🇪 German speaker.
+<p> 🇩🇪 German (C1) and 🇬🇧 English speaker (B2).
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
