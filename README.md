@@ -21,12 +21,17 @@
   <a href="mailto:it.oksana.poliakova@gmail.com" target="blank">My email</a>
 </p>
 
-<h3> Front-End Developmnet </h3>
+<h3> Front-End Development </h3>
 <p> 
   <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-4682B4?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-00BFFF?style=for-the-badge&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Materialize-4682B4?style=for-the-badge&logo=Material-UI&logoColor=white"/>
+</p>
 </p>
   
 <h3> Mobile Development </h3>
