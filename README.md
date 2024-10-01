@@ -25,25 +25,24 @@
 <p> 
   <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-00BFFF?style=for-the-badge&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Less-4682B4?style=for-the-badge&logo=Less&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-4682B4?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-00BFFF?style=for-the-badge&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Materialize-4682B4?style=for-the-badge&logo=Material-UI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-00BFFF?style=for-the-badge"/>
 </p>
 </p>
   
 <h3> Mobile Development </h3>
 <p> 
-<img src="https://img.shields.io/badge/Swift-00BFFF?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UIKit-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Core Data-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST API-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVVM-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CocoaPods-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swift-00BFFF?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UIKit-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Core Data-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CocoaPods-00BFFF?style=for-the-badge"/>
 </p>
 
 <h3> Backend Development </h3>
@@ -54,7 +53,15 @@
   <img src="https://img.shields.io/badge/Hibernate-4682B4?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JDBC-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTTP SERVLETS-4682B4?style=for-the-badge" /> 
+</p>
+
+<h3> Build and Dependency Management </h3>
+<p>
   <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"" /> 
+  <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-4682B4?style=for-the-badge&logo=Apache-Maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-00BFFF?style=for-the-badge&logo=Webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gulp-4682B4?style=for-the-badge&logo=Gulp&logoColor=white"/>
 </p>
 
 <h3> Tools and Instruments </h3>
