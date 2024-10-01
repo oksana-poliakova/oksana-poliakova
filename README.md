@@ -3,11 +3,10 @@
 <h2 align="center">My name is Oksana Poliakova 👩🏼‍💻 </h2>
 <h2 align="center">I'm a Software Engineer from Austria 🇦🇹 </h2>
 
-<p> </p>
+<p></p>
+<p> 🚀 Front-End Developer with a strong focus on creating intuitive, responsive, and user-centered UI/UX designs.
 <p> 🎓 Master's degree in automation and computer technologies.
 <p> 🇦🇹 I'm living in Vorarlberg, Austria.
-<p> 🚀 I'm currently working as an iOS engineer.
-<p> 🧠 I'm learning Java and back-end development.
 <p> ❤️ I am passionate about solving complex problems through innovative software solutions.
 <p> ⛰️ I love travelling, mountains and hiking.
 <p> 🇬🇧 English and 🇩🇪 German speaker.
@@ -57,7 +56,6 @@
 
 <h3> Build and Dependency Management </h3>
 <p>
-  <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"" /> 
   <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-4682B4?style=for-the-badge&logo=Apache-Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-00BFFF?style=for-the-badge&logo=Webpack&logoColor=white"/>
